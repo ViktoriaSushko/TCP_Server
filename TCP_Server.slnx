@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Agent_Client/Agent_Client.csproj" />
+  <Project Path="Agent_Server/Agent_Server.csproj" />
+  <Project Path="TCP_Client/TCP_Client.csproj" />
+  <Project Path="TCP_Server/TCP_Server.csproj" />
+</Solution>
